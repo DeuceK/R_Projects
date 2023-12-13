@@ -1,0 +1,41 @@
+OK: bst1 == bst2
+OK: bst1 contains d
+OK: bst1 does not contain x
+OK: bst3 contains g
+OK: bst4 == bst2
+treeMenuString
+1. Add
+2. Search
+3. Inorder traverse
+4. Height & Number of nodes
+5. Rebalance
+6. Add Multiple
+7. Clear tree
+8. Create tree from sorted array
+10. Exit
+>> 1
+Enter a string: p
+PS C:\Users\caele\OneDrive\Documents\CODECODECODE\JAN2023\C++\CSS 343\Assignment 2>
+
+
+
+
+
+
+OK: bst1 == bst2
+OK: bst1 contains d
+OK: bst1 does not contain x
+OK: bst3 contains g
+OK: bst4 == bst2
+treeMenuString
+1. Add
+2. Search
+3. Inorder traverse
+4. Height & Number of nodes
+5. Rebalance
+6. Add Multiple
+7. Clear tree
+8. Create tree from sorted array
+10. Exit
+>> 10
+PS C:\Users\caele\OneDrive\Documents\CODECODECODE\JAN2023\C++\CSS 343\Assignment 2> 
