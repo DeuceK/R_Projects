@@ -1,0 +1,20 @@
+ g++ assignment3.cpp -o assignment3 } ; if ($?) { .\assignment3 }
+testGraph
+OK: 3 vertices
+OK: 3 edges
+OK: DFS
+OK: BFS
+
+testGraph2
+OK: EDGE WEIGHT
+OK: EDGE WEIGHT
+OK: GET VISITED
+
+dijkstraTest
+Dijkstra path values : 
+[0 , 0]
+[1 , 4]
+[2 , 12]
+[3 , 14]
+[4 , 5]
+PS C:\Users\caele\OneDrive\Documents\CODECODECODE\JAN2023\C++\CSS 343\Assignment 3\turn in files> 
