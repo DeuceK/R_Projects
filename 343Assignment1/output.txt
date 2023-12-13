@@ -1,0 +1,14 @@
+tp1: []
+tp2: [F 10]
+tp1 now as tp2+tp3: [F 10 R 90]
+tp1 now as tp2 * 3: [F 10 F 10 F 10]
+tp4 is a copy of tp1: [F 10 F 10 F 10]
+tp5: [F 10]
+tp2 and tp5 are == to each other: true
+tp2 and tp3 are != to each other: true
+index 0 of tp2 is F
+tp2 after 2 calls to setIndex: [R 90]
+tp2 and tp3 are == to each other: true
+tpAdd += tpAdd2: [F 20 R 45]
+tpMultiply *= 5: [F 10 F 10 F 10 F 10 F 10]
+Done.
